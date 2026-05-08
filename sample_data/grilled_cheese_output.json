@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "url": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+  "title": "Grilled Cheese Sandwich",
+  "cuisine": "American",
+  "prep_time": "5 minutes",
+  "cook_time": "10 minutes",
+  "total_time": "15 minutes",
+  "servings": "1 serving",
+  "difficulty": "easy",
+  "ingredients": [
+    { "quantity": "2", "unit": "slices", "item": "white bread" },
+    { "quantity": "2", "unit": "slices", "item": "cheddar cheese" },
+    { "quantity": "1", "unit": "tbsp", "item": "butter" }
+  ],
+  "instructions": [
+    "Step 1: Heat a skillet over medium heat.",
+    "Step 2: Butter one side of each bread slice.",
+    "Step 3: Place one slice butter-side down, add cheese slices, top with second slice butter-side up.",
+    "Step 4: Cook 3-4 minutes until golden brown, flip and cook another 3-4 minutes.",
+    "Step 5: Remove from heat, slice diagonally and serve hot."
+  ],
+  "nutrition": {
+    "calories": "380 kcal per serving",
+    "protein": "14g",
+    "carbs": "28g",
+    "fat": "22g"
+  },
+  "substitutions": [
+    { "original": "butter", "substitute": "olive oil", "note": "Use same amount for a slightly healthier option" },
+    { "original": "white bread", "substitute": "sourdough bread", "note": "Adds more flavor and crunch" },
+    { "original": "cheddar cheese", "substitute": "mozzarella", "note": "For a milder, stretchier melt" }
+  ],
+  "shopping_list": {
+    "dairy": ["2 slices cheddar cheese", "1 tbsp butter"],
+    "produce": [],
+    "pantry": ["2 slices white bread"],
+    "meat": [],
+    "other": []
+  },
+  "related_recipes": [
+    { "title": "Tomato Soup", "description": "The classic pairing for grilled cheese" },
+    { "title": "French Toast", "description": "Another simple bread-based breakfast recipe" },
+    { "title": "Quesadilla", "description": "Similar concept with tortillas and cheese" }
+  ],
+  "created_at": "2025-05-08T10:30:00"
+}
